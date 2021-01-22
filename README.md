@@ -1,12 +1,4 @@
-![logo](Images/original-horizontal.png)
-
 # SwiftAudio
-
-[![Build Status](https://app.bitrise.io/app/3d3ac2ba8d817235/status.svg?token=PHIPu3oMde5GdQEOZ1Ilww&branch=master)](https://app.bitrise.io/app/3d3ac2ba8d817235)
-[![Version](https://img.shields.io/cocoapods/v/SwiftAudio.svg?style=flat)](http://cocoapods.org/pods/SwiftAudio)
-[![codecov](https://codecov.io/gh/jorgenhenrichsen/SwiftAudio/branch/master/graph/badge.svg)](https://codecov.io/gh/jorgenhenrichsen/SwiftAudio)
-[![License](https://img.shields.io/cocoapods/l/SwiftAudio.svg?style=flat)](http://cocoapods.org/pods/SwiftAudio)
-[![Platform](https://img.shields.io/cocoapods/p/SwiftAudio.svg?style=flat)](http://cocoapods.org/pods/SwiftAudio)
 
 SwiftAudio is an audio player written in Swift, making it simpler to work with audio playback from streams and files.
 
@@ -161,11 +153,3 @@ All available overrides can be found by looking at `RemoteCommandController`.
 
 ### Start playback from a certain point in time
 Make your `AudioItem`-subclass conform to `InitialTiming` to be able to start playback from a certain time.
-
-## Author
-
-Jørgen Henrichsen
-
-## License
-
-SwiftAudio is available under the MIT license. See the LICENSE file for more info.
